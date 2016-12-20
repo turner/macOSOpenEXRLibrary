@@ -2,246 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2220d6ee-8cd5-4eb5-907c-20e69b1599df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/macOSOpenEXRLibrary/ilmbase-2.2.0/IexMath/IexMathFloatExc.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/macOSOpenEXRLibrary/ilmbase-2.2.0/IexMath/IexMathFpu.cpp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/ilmbase-2.2.0/Half/toFloat.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfAcesFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfAcesFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfArray.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfAutoArray.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfB44Compressor.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfB44Compressor.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfBoxAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfBoxAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfCRgbaFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfCRgbaFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfChannelList.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfChannelList.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfChannelListAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfChannelListAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfCheckedArithmetic.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfChromaticities.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfChromaticities.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfChromaticitiesAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfChromaticitiesAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfCompositeDeepScanLine.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfCompositeDeepScanLine.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfCompression.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfCompressionAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfCompressionAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfCompressor.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfCompressor.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfConvert.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfConvert.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepCompositing.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepCompositing.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepFrameBuffer.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepFrameBuffer.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepImageState.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepImageStateAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepImageStateAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepScanLineInputFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepScanLineInputFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepScanLineInputPart.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepScanLineInputPart.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepScanLineOutputFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepScanLineOutputFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepScanLineOutputPart.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepScanLineOutputPart.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepTiledInputFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepTiledInputFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepTiledInputPart.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepTiledInputPart.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepTiledOutputFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepTiledOutputFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepTiledOutputPart.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDeepTiledOutputPart.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDoubleAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDoubleAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDwaCompressor.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDwaCompressor.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfDwaCompressorSimd.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfEnvmap.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfEnvmap.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfEnvmapAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfEnvmapAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfExport.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfFastHuf.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfFastHuf.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfFloatAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfFloatAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfFloatVectorAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfFloatVectorAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfForward.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfFrameBuffer.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfFrameBuffer.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfFramesPerSecond.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfFramesPerSecond.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfGenericInputFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfGenericInputFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfGenericOutputFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfGenericOutputFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfHeader.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfHeader.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfHuf.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfHuf.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfIO.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfIO.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfInputFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfInputFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfInputPart.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfInputPart.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfInputPartData.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfInputPartData.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfInputStreamMutex.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfInt64.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfIntAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfKeyCode.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfKeyCode.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfKeyCodeAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfKeyCodeAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfLineOrder.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfLineOrderAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfLineOrderAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfLut.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfLut.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfMatrixAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfMatrixAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfMisc.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfMisc.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfMultiPartInputFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfMultiPartInputFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfMultiPartOutputFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfMultiPartOutputFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfMultiView.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfMultiView.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfName.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfNamespace.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfOpaqueAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfOpaqueAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfOptimizedPixelReading.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfOutputFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfOutputFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfOutputPart.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfOutputPart.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfOutputPartData.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfOutputPartData.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfOutputStreamMutex.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfPartHelper.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfPartType.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfPartType.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfPixelType.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfPizCompressor.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfPizCompressor.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfPreviewImage.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfPreviewImage.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfPreviewImageAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfPreviewImageAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfPxr24Compressor.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfPxr24Compressor.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfRational.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfRationalAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfRationalAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfRgba.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfRgbaFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfRgbaFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfRgbaYca.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfRgbaYca.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfRle.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfRle.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfRleCompressor.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfRleCompressor.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfScanLineInputFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfScanLineInputFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfSimd.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfStandardAttributes.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfStandardAttributes.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfStdIO.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfStdIO.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfStringAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfStringAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfStringVectorAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfStringVectorAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfSystemSpecific.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfSystemSpecific.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTestFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTestFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfThreading.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfThreading.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTileDescription.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTileDescriptionAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTileDescriptionAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTileOffsets.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTileOffsets.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTiledInputFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTiledInputFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTiledInputPart.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTiledInputPart.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTiledMisc.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTiledMisc.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTiledOutputFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTiledOutputFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTiledOutputPart.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTiledOutputPart.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTiledRgbaFile.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTiledRgbaFile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTimeCode.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTimeCode.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTimeCodeAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfTimeCodeAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfVecAttribute.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfVecAttribute.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfVersion.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfVersion.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfWav.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfWav.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfXdr.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfZip.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfZip.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfZipCompressor.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfZipCompressor.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/b44ExpLogTable.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/b44ExpLogTable.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/dwaLookups.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/dwaLookups.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfDeepImage.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfDeepImage.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfDeepImageChannel.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfDeepImageChannel.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfDeepImageIO.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfDeepImageIO.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfDeepImageLevel.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfDeepImageLevel.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfFlatImage.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfFlatImage.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfFlatImageChannel.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfFlatImageChannel.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfFlatImageIO.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfFlatImageIO.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfFlatImageLevel.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfFlatImageLevel.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfImage.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfImage.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfImageChannel.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfImageChannel.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfImageChannelRenaming.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfImageDataWindow.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfImageDataWindow.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfImageIO.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfImageIO.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfImageLevel.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfImageLevel.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfSampleCountChannel.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImfUtil/ImfSampleCountChannel.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/config/OpenEXRConfig.h" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/ilmbase-2.2.0/Half/eLut.cpp" afterPath="$PROJECT_DIR$/macOSOpenEXRLibrary/ilmbase-2.2.0/IexMath/IexMathFloatExc.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfIntAttribute.h" afterPath="$PROJECT_DIR$/macOSOpenEXRLibrary/ilmbase-2.2.0/IexMath/IexMathIeeeExc.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/openexr-2.2.0/IlmImf/ImfRational.h" afterPath="$PROJECT_DIR$/macOSOpenEXRLibrary/ilmbase-2.2.0/IexMath/IexMathFpu.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary.xcodeproj/project.xcworkspace/xcuserdata/dat.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/macOSOpenEXRLibrary.xcodeproj/project.xcworkspace/xcuserdata/dat.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/macOSOpenEXRLibrary.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/ilmbase-2.2.0/Half/half.cpp" afterPath="$PROJECT_DIR$/macOSOpenEXRLibrary/ilmbase-2.2.0/Half/half.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/macOSOpenEXRLibrary/macOSOpenEXRLibrary.h" afterPath="$PROJECT_DIR$/macOSOpenEXRLibrary/macOSOpenEXRLibrary.h" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -437,32 +200,34 @@
       <option name="presentableId" value="Default" />
       <updated>1482067927015</updated>
       <workItem from="1482067928505" duration="306000" />
+      <workItem from="1482148919016" duration="34000" />
+      <workItem from="1482149008240" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="306000" />
+    <option name="totallyTimeSpent" value="350000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -482,7 +247,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-756">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -490,7 +254,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-160">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -498,7 +261,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -506,7 +268,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-126">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -514,9 +275,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-432">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#2052#2075#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -524,10 +282,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1044">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#2032#2060#0" expanded="true" />
-            <element signature="e#2119#2190#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,7 +289,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-126">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -543,7 +296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-448">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -551,7 +303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-952">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
